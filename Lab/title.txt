@@ -1,0 +1,21 @@
+S.N.	LAB Title
+1	Write a program to read, save and display an image
+2	BGR to gray scale conversion
+3	BGR to Black and white conversion
+4	Digital Negative
+5	Histogram plot of an image
+6	Digital Negative with histogram
+7	Histogram equilization
+8	Piecewise linear transformation
+9	Power Law Transformation
+10	Log Transformation
+11	Implementation of weighted average filtering
+12	Implementation of median filtering
+13	Implementation of minimum filtering
+14	Implementation of maximum filtering
+15	Implement Gaussian Blur
+16	Implement dilation and eroison of an image
+17	Implement opening and closing of an image
+18	Run Length coding
+19	Huffman Coding
+20	Program to extract edge of an Image
