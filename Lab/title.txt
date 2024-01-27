@@ -14,7 +14,7 @@ S.N.	LAB Title
 13	Implementation of minimum filtering
 14	Implementation of maximum filtering
 15	Implement Gaussian Blur
-16	Implement dilation and eroison of an image
+16	Implement dilation and erosion of an image
 17	Implement opening and closing of an image
 18	Run Length coding
 19	Huffman Coding

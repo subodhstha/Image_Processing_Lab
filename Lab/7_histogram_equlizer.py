@@ -4,7 +4,7 @@ import cv2
 import numpy as np
  
 # read a image using imread
-img = cv2.imread('./Lab-1/anit-li.jpg', 0)
+img = cv2.imread('./Lab/anti_light.jpg', 0)
 img = cv2.resize(img, (800, 600))
 cv2.imshow('input',img)
 
